@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://test.2job.top</id>
     <title>职盒子</title>
-    <updated>2020-08-17T13:54:06.954Z</updated>
+    <updated>2020-08-18T13:34:20.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://test.2job.top"/>
     <link rel="self" href="https://test.2job.top/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 职盒子</rights>
     <entry>
         <title type="html"><![CDATA[求职渠道与准备]]></title>
-        <id>https://test.2job.top/post/qiu-zhi-qu-dao-yu-zhun-bei/</id>
-        <link href="https://test.2job.top/post/qiu-zhi-qu-dao-yu-zhun-bei/">
+        <id>https://test.2job.top/post/prepare/</id>
+        <link href="https://test.2job.top/post/prepare/">
         </link>
         <updated>2020-08-16T08:07:38.000Z</updated>
         <content type="html"><![CDATA[<h3 id="一-确定具体的求职意向">一、确定具体的求职意向</h3>
@@ -132,27 +132,288 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[简历撰写与投递]]></title>
-        <id>https://test.2job.top/post/jian-li-zhuan-xie-yu-tou-di/</id>
-        <link href="https://test.2job.top/post/jian-li-zhuan-xie-yu-tou-di/">
+        <id>https://test.2job.top/post/resume/</id>
+        <link href="https://test.2job.top/post/resume/">
         </link>
         <updated>2020-08-16T08:07:22.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>牛牛牛牛牛牛牛牛牛牛牛牛牛牛牛</p>
+        <content type="html"><![CDATA[<h2 id="方法论">方法论</h2>
+<h3 id="一-原则">一、原则</h3>
+<ol>
+<li>简历简历，写一页就好。</li>
+<li>呈现一个值得提问的点，这样才能获得面试机会。</li>
+<li>经历部分使用三三制原则来陈述，不可太简单，也不可流水账。</li>
+</ol>
+<blockquote>
+<p>三三制原则：<br>
+根据意向岗位，选择三个相关经历；可以不按时间顺序，最重要的放在最前面；每项用三个短句描述（重要内容可以5个，不要用主语，不要“负责”到底）叙述经历的流程。详细看文末例子。<br>
+P:写出实习工作或项目（Project）的名称、背景、任务和工作。<br>
+A:写出你在这段经历中的行为（Activity)<br>
+R:写出你在这段经历获得的结果（Results）：成果、收益。<br>
+用数字说话。尽量用具体数字来描述你的工作量、工作效率、工作成果等。<br>
+专业术语表达。比如打字可以改为文字处理。<br>
+职位相关原则。详略得当，重点描述与岗位高度相关的经历。</p>
+</blockquote>
+<h3 id="二-步骤">二、步骤</h3>
+<ol>
+<li>
+<p>对意向岗位要有较为深入的了解，不能只分析岗位描述，对其工作内容进行详细了解，包括与其它岗位的协同关系，常用的技能。<strong>在撰写经历部分时，要体现该岗位需要的能力和素养。</strong></p>
+</li>
+<li>
+<p>对自己的大学经历做一个梳理，挖掘与意向岗位相关的内容，尽量详细，前因后果与投入产出搞清楚，按时间顺序罗列下来（这也体现了职业规划的重要性）；也许你能抽象出一个「核心竞争力」。有些岗位需要提供作品，也需要整理下。</p>
+</li>
+<li>
+<p>即使是同一个岗位，在不同公司或许有不同侧重，对能力和素养的要求也有一定差异，需要仔细阅读岗位描述，分析其想要怎样的候选人，对症下药。企业要最合适的，而不是最优秀的，有时候有成本的考虑在里面。<strong>对于逻辑思维能力强、沟通能力强这类描述，要用相关经历去证明</strong>；更重要的是对岗位有深入了解，才能读懂一些隐性要求。</p>
+</li>
+<li>
+<p>模板不重要，排版很重要，可以没有那么多色彩，但是一定要大方，对读者友好。建议直接在模板里写，否则套模板的时候发现字数不合适；在模板里写作也便于有意识地精炼语言。字数不能太少，下图左一、左二为错误实例。<br>
+<img src="https://test.2job.top/post-images/1597735428978.png" alt="我的简历更迭" loading="lazy"></p>
+</li>
+<li>
+<p>第一次投递的简历作为母版，之后以此为基础进行修改，投递其它岗位。</p>
+</li>
+</ol>
+<h3 id="二-必选模块">二、必选模块</h3>
+<p><strong>1. 文件名</strong></p>
+<p>一定要规范，可以是：「应聘岗位_姓名-毕业院校-年级」，也可以是「应聘岗位_姓名_有某某经验」。简历中不要出现「个人简历」四个大字。</p>
+<p><strong>2. 求职意向</strong></p>
+<p>每一份简历都要<strong>写明求职意向</strong>，这一步已经与恶性海投简历的候选人区分开来，体现出一定的积极性。</p>
+<p><strong>3. 个人信息</strong></p>
+<ul>
+<li>
+<p>姓名。如果有英文文字可以写，但是一直要是真实的，不要在面试时不答应。</p>
+</li>
+<li>
+<p>联系电话。中间分隔，如123-4567-8910</p>
+</li>
+<li>
+<p>邮箱。一般不用QQ邮箱，主要是因为昵称、用户名不专业，也<strong>不要用太小众邮箱</strong>（特别是校园邮箱，有可能被收进垃圾邮件）；用户名不能是一串数字。</p>
+</li>
+<li>
+<p>照片。一般不需要照片，除非销售岗等对形象有要求的岗位；如果长相是加分项可以放；照片要正式。</p>
+</li>
+<li>
+<p>政治面貌，家庭住址，籍贯，年龄，通讯地址，邮编一般不写。<strong>国企和事业单位需要写明政治面貌</strong>，有时还需要写籍贯，投递前可以打听一下。</p>
+</li>
+</ul>
+<p><strong>4. 教育背景</strong></p>
+<ul>
+<li>学校。写全名。</li>
+<li>学历。写明是本科还是硕士。</li>
+<li>专业。绩点排名好写上，如果与岗位对口的话可以写相关课程及分数。</li>
+<li>起始年份。一定要写，即使没有毕业也写明毕业时间，不要用「至今」。</li>
+<li><strong>不一定要把教育经历放最上面</strong>。</li>
+</ul>
+<p><strong>5. 实习经历</strong></p>
+<ul>
+<li>
+<p>写明起始时间、公司、部门、岗位。</p>
+</li>
+<li>
+<p>公司名称及岗位可以美化，公司写产品名称，如将北京小桔科技写为滴滴出行。</p>
+</li>
+<li>
+<p>岗位也可以增强相关性，根据工作内容往目标岗位靠拢，但是不能造假。</p>
+</li>
+<li>
+<p>写明背景、行动、成果，体现个人职责和贡献，用数字说话。可以参考文末。</p>
+</li>
+</ul>
+<p><strong>6. 项目经历</strong></p>
+<p>社团、学生会、办公室，短期兼职，比赛竞赛，甚至课程作业都可以算项目经历。</p>
+<p>需要深入挖掘，体现相关性，突出个人成长；主要负责最好，不要重复价值相同的经历。</p>
+<h3 id="可选模块">可选模块</h3>
+<p><strong>1. 个人优势/自我总结</strong></p>
+<p>有人主张不写，因为主观性太强，如果要写也要避免形容词堆砌。有一些值得一提但是简历不好体现的可以写上去，跨行求职且没有相关经历更需要写，但这一部分的确是很不好把握。</p>
+<p><strong>2. 兴趣爱好</strong></p>
+<p>兴趣爱好也是相对重要的一部分，可以体现一个人的个性和生活状态。如果在兴趣爱好上有所作为即作为项目经历写出来更好，至少是有一定的付出，兴趣爱好贵精不在多。</p>
+<p><strong>3. 求职信</strong></p>
+<p>一般是邮箱投递用，可以参考<a href="https://www.zhihu.com/question/22966125">这里第二篇回答</a>，因为目前使用较少，不再赘述了。</p>
+<h3 id="辅助信息">辅助信息</h3>
+<p><strong>1. 简历制作工具</strong></p>
+<p>可以使用<a href="https://www.wondercv.com/">超级简历</a>，更推荐自己用Word做一个，体现专业的技能。</p>
+<p>最后保存为PDF，不推荐word，在不同软件下排版会扭曲。</p>
+<p>如果要附加个人作品，可以与简历文件压缩上传附件。</p>
+<p>在线作品集可以用<a href="https://cli.im/">草料二维码</a>将链接转换，最好不要用百度云盘。</p>
+<p><strong>2. 职场人士帮忙</strong></p>
+<ul>
+<li>可以自己想办法认识，在公众号、微博、知乎等等。</li>
+<li>领英、朋友等职场社交软件可以接触到一些校友。</li>
+<li>一些付费咨询。</li>
+</ul>
+<h3 id="投递与跟进">投递与跟进</h3>
+<p><strong>1. 投递方式</strong></p>
+<ul>
+<li>如果有跳过HR筛选的机会最好，但要保证信息真实性。在职人士推荐、学校就业网的校友内推、Boss直聘的直招等等。</li>
+<li>官网、平台、公众号网申，复制本地简历的内容。如果使用 Chrome 的话推荐<a href="https://www.nowcoder.com/quick-fill/show-introduce">牛客简历助手</a>。</li>
+<li>邮箱投递，注意邮件礼节。注意事项：邮箱名称、标题很重要，邮件正文很重要，邮件附件要做好。</li>
+<li>现场投递。</li>
+</ul>
+<p><strong>2. 精细化投递</strong></p>
+<ul>
+<li>最好是有一个意向清单，对每个公司都有大致的了解。了解工作条件、工作地点、劳动报酬等各方面。</li>
+<li>投递每个岗位时，针对这一岗位的要求和具体工作内容，对简历进行微调。</li>
+<li>不要把鸡蛋只放在十个篮子里，多次投递，多次机会。</li>
+<li><strong>做好记录，避免失忆。</strong></li>
+</ul>
+<p><strong>3. 保持一个节奏</strong></p>
+<ul>
+<li>不要一股脑儿投递好多简历，分批投递，可以是一周10个、一天1个。</li>
+<li>对简历进行进度标注，防止出现投递重复或者有遗漏未投递的公司</li>
+<li>及时跟进投递情况，比如 7 天后登入网站了解是否通过筛选。</li>
+<li>根据反馈情况持续优化简历，尽可能掌握被公司落选原因，从而加以改正。</li>
+</ul>
+<p><strong>4. 其它问题</strong></p>
+<blockquote>
+<p>Q：宣讲会，招聘会，面试时带几份简历？<br>
+A: 多带几分，以备不时之需。</p>
+</blockquote>
+<blockquote>
+<p>Q:简历石沉大海，是被pass了吗？<br>
+A:不一定，很可能只是你的简历没有被看到。</p>
+</blockquote>
+<blockquote>
+<p>Q:可以通过什么渠道了解公司和职位呢？<br>
+A:1.招聘广告（获得应聘要求，关键词)<br>
+2.公司官网（获得企业文化，官方解读）<br>
+3.企业年报（获得行业分析，全局比较）</p>
+</blockquote>
+<p>推荐阅读：<a href="https://zhuanlan.zhihu.com/p/46529029">《对比几个写经历的案例》</a>，<a href="https://mp.weixin.qq.com/s?__biz=MzI5NjU5NDEzMQ==&amp;mid=2247484372&amp;idx=1&amp;sn=db38f49684c165daac6bb31b7d45f857&amp;chksm=ec40bc68db37357edbf34141eb1402b5944689aee6fe2033e36731acbaafa5e4474bd24fecf7&amp;scene=21#wechat_redirect">《四象限法拯救一无可写》</a><br>
+也可以阅读：<a href="https://mp.weixin.qq.com/s?src=11&amp;timestamp=1595119700&amp;ver=2469&amp;signature=jKDnMpQDnuNTrp6ukGcRpkmoEFDosJvKJ-pA3BKFkXNSXTC381R0LKpLqZUM51p2IVAIeVi2bqseAo6sRuSpJTaG7XLAt8qeEXZkT8AZ6a-6UsiSSP7qQ3eavr2UZ7hv&amp;new=1">《正确看待求职焦虑》</a>，<a href="https://mp.weixin.qq.com/s?src=11&amp;timestamp=1595119554&amp;ver=2469&amp;signature=jKDnMpQDnuNTrp6ukGcRpkmoEFDosJvKJ-pA3BKFkXPjb5D*Y8LF5L59GYmi-IiEI4WKHWvGuSNvVqyAEhELJ2*ceYAQocbdMsPytJuirCD0Nm*jabhJQ7qdDQ0BAZl*&amp;new=1">《简历排版知识》</a>。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[笔面试]]></title>
-        <id>https://test.2job.top/post/bi-mian-shi/</id>
-        <link href="https://test.2job.top/post/bi-mian-shi/">
+        <id>https://test.2job.top/post/exam/</id>
+        <link href="https://test.2job.top/post/exam/">
         </link>
         <updated>2020-08-16T08:06:17.000Z</updated>
-        <content type="html"><![CDATA[<p>水水水水水水水水水水水水水</p>
+        <content type="html"><![CDATA[<h2 id="笔试"><strong>笔试</strong></h2>
+<h3 id="上穷碧落下黄泉了解题型最重要"><strong>上穷碧落下黄泉，了解题型最重要</strong></h3>
+<p>现在，越来越多的企业开始采用笔试的方式来筛选人才，相比单单依靠简历，笔试给没有相关工作经验的同学提供了一些机会。要注意的是，拥有相关实习工作经验的同学可能不需要参加笔试，就能拿到面试机会，而参加笔试的同学不一定就会获得面试资格。笔<strong>试的作用是相对有限的，没有工作经验的同学也特别需要在此脱颖而出。</strong></p>
+<p>关于笔试的题型，可在各大论坛社区，比如知乎、应届生求职网还有一些社群搜索到。笔试的设置情况因岗位而异，不同公司的同一岗位可能是不一样的题型。</p>
+<p>一般有如下题型：</p>
+<ol>
+<li>性格测试。注意啦，性格测试是没有对错的，但要注意如实填写，HR小哥哥小姐姐会通过前后对比的方式来检验你的诚实度、性格开放程度。</li>
+<li>行测题。有图形、数字推理，资料分析，言语理解，统计图理解等，特别要注意图形题，这是公司为了短时间内考察你的逻辑思维能力，因此针对这类图形题需要勤加练习。</li>
+<li>专业主观题。需要多了解多学习，掌握一些解题框架，训练思维。</li>
+</ol>
+<h3 id="笔试准备虽辛苦吹尽黄沙始到金"><strong>笔试准备虽辛苦，吹尽黄沙始到金</strong></h3>
+<ol>
+<li>多刷题，积累经验。在<a href="%5Bhttps://www.nowcoder.com/contestRoom?categories=6%5D(https://www.nowcoder.com/contestRoom?categories=6)">牛客</a>、<a href="%5Bhttp://17career.com/freeZone/63-78%5D(http://17career.com/freeZone/63-78)">一起求职</a>等网站有免费的题库可以使用。</li>
+<li>多了解岗位，阅读相关资讯，拓展眼界。</li>
+</ol>
+<h2 id="面试"><strong>面试</strong></h2>
+<p>进入面试后，一定要思考好一个问题：**在面试中该如何表现才能对应企业的要求？**要知道，<strong>企业向来是寻找合适的人，而不会去找所谓“完美”的人</strong>。有句话叫做适合你的才是最好的，企业的想法亦如是。</p>
+<p>通过简历筛选和笔试，来到面试说明你已经基本适应了企业的岗位要求，在面试时要好好表现。谨记面试的 STAR 法则，祝你成功上岸！</p>
+<p>S-situation-情景-应聘者经历事件所处的背景、基本情况和条件。、</p>
+<p>比如：我在大三参加全国挑战杯创业比赛的时候...</p>
+<p>T-task-任务-应聘者在当时的情景下需要完成的任务。</p>
+<p>比如：...需要完成一份创业项目策划...</p>
+<p>A-action-行动-应聘者为完成上述事件需要做出的行动。</p>
+<p>比如：...寻找可获得的资源，寻求老师和同学的帮助...</p>
+<p>R-result-结果-应聘者在完成上述任务之后得到的结果</p>
+<p>比如：...获得比赛第一名...</p>
+<p>举例说明，你<strong>如何制定了一个很高的目标，并且最终实现了它</strong>。求职的同学注意将四个原则融会贯通，通过不断尝试增长面试经验。</p>
+<h3 id="树立招聘思维避免面试误区"><strong>树立招聘思维，避免面试误区</strong></h3>
+<ol>
+<li>首先，浏览该公司官网，了解该公司业务、产品，适当阅读关于企业最近的新闻，注意识别真伪信息。分析好岗位JD是重中之重，准确把握企业岗位需求的脉搏。</li>
+<li>深挖简历，对自己的每一条经历都必须做到心中有数，突出与岗位相匹配的能力特质。通过公司官网和新媒体帐号了解企业的人才观，猜测面试官可能会对什么感兴趣；甚至可以主动去勾起他的兴趣，企业相当需要符合企业价值观的人。</li>
+<li>整理问题清单，输出答案，反复思考，做到熟练，面试过程中切忌求大而全，一定要突出个人特点，不要把注意力分散在与求职无关的个人特质上。</li>
+<li>有条件可以对面试官进行一些了解，比如在领英上查看他的履历。</li>
+</ol>
+<h3 id="响亮的自我介绍必不可少"><strong>响亮的自我介绍必不可少</strong></h3>
+<ol>
+<li>自我介绍不是单纯的念简历，也不是草草说一下姓名和毕业院校就可以，也不能长篇大论没有重点。</li>
+<li>撰写一份通用的自我介绍，大约在3分钟以内，群面阶段另备一份30秒到一分钟的自我介绍；做到适当更新，使其更能突出亮点。</li>
+<li>把握时间，通过自我介绍突出个人特色，善用关键词+数字。</li>
+<li>自我介绍一般分为3部分内容：我是谁，我为何能够胜任，为何我选择这家公司的这家岗位。</li>
+</ol>
+<h3 id="群面不要慌找准角色担当"><strong>群面不要慌，找准角色担当</strong></h3>
+<ol>
+<li><strong>了解群面流程（同时确认自己的岗位有没有群面）</strong>
+<ul>
+<li>自我介绍。1分钟内，不能太简单，也不能太秀，让大家记住你就好。</li>
+<li>3分钟了解试题，独立思考，列出发言提纲。</li>
+<li>轮流阐述，也可以谁有想法谁就发言。</li>
+<li>自由发言。也可以在最后十分钟的时候模拟汇报，做补充。</li>
+<li>选出一位总结发言，其它成员可以补充。</li>
+<li>面试官提问。有时会问对自己表现的评价，对别人表现的评价，注意<strong>团队利益最重要</strong>。</li>
+</ul>
+</li>
+<li><strong>群面角色</strong>
+<ul>
+<li>Leader 领导小组，制定讨论框架，控制讨论节奏。不要刻意抢角色，自然生成。</li>
+<li>Timer 时间管理，但也不能只计时，<strong>积极讨论</strong>。不要只提醒时间，告知下一步干啥。</li>
+<li>Reporter 方案汇报。做好记录，整理逻辑，提前演练。</li>
+<li>idear <strong>持续</strong>输出<strong>有价值</strong>的观点，不过不意味着抢话。</li>
+</ul>
+</li>
+<li><strong>注意事项</strong>
+<ul>
+<li>不要跑题，讨论太宽泛太细都不可以，需要自己掌握分寸，也及时提醒别人。</li>
+<li>必须争取发言，但不要急于发言。找到关键节点切入，如果讲了废话可能会让团队对你失去新人，发言太少争取 Reporter ，每时每刻寻找存在感。</li>
+<li>保持礼貌。切忌抢话、插话，不要一下子说好多，有时会导致后面没说的。</li>
+<li>寻找好适合自己的角色。时间宝贵，角色的分配必须要清晰，或是主导讨论，或是做一个记时者或是进行总结汇报，没有角色也可以做一个观点输出者。</li>
+<li>思路比结果重要。面试官更看重你们思考的过程，而非你们产出的方案，毕竟方案最后是一个人来宣读。</li>
+<li>抓住问题重点，充分表现自我。</li>
+<li>进行群面模拟，熟悉各类题型。</li>
+</ul>
+</li>
+</ol>
+<h3 id="专业面试对症下药"><strong>专业面试，对症下药</strong></h3>
+<ol>
+<li><strong>面试流程</strong>
+<ul>
+<li>自我介绍。可以在此处展示亮点吸引面试官提问。</li>
+<li>挖掘经历。面试官会问简历内容，需要对简历熟悉，且能够清晰表达自我过往经历中的思路。</li>
+<li>专业问题。与岗位的相关问题，建议在此处多用实例展现与企业价值观相符的特质。</li>
+<li>反问。可以问自己有哪些不足，工作内容是什么可以做哪些准备。不要问薪资、环境等。</li>
+</ul>
+</li>
+<li><strong>注意事项</strong>
+<ul>
+<li>如果是现场面试，需要在服装、仪表、简历、材料等方面下足功夫，细节决定成败。</li>
+<li>切忌迟到，不要给考官较差的第一印象，但也不要过早去，最多提前十五分钟。</li>
+<li>回答问题少给自己挖坑，<strong>不懂的尽量不要说</strong>。</li>
+<li>不需要太紧张，面试本质是一场交流，但也不要太随意，体现诚意。</li>
+<li>不要抢话。<strong>回答问题停顿几秒，不要把面试变成聊天，不懂也可以先说出思考过程</strong>。</li>
+</ul>
+</li>
+</ol>
+<h3 id="hr终面车到山前必有路"><strong>HR终面，车到山前必有路</strong></h3>
+<ol>
+<li><strong>主要问题</strong>
+<ul>
+<li>性格相关。所以要对自己的性格有所了解，一定要去做针对性的职业性格测试。</li>
+<li>薪酬问题。询问薪资构成及五险一金情况，最好不要做第一个说出具体薪资的人。</li>
+<li>看你最看重什么，如果问收到几个 offer 也尽量实话实说。</li>
+<li>稳定性。会问家在哪里，以后怎么规划，以及是否男/女朋友。</li>
+</ul>
+</li>
+<li><strong>注意事项</strong>
+<ul>
+<li>Be careful. 认真对待。给HR留下谦虚好学的印象。</li>
+<li>HR提问你还有没有额外的问题时，尽最大可能就HR在面试过程中所简略提到的点集中深入提问，若是没有，可以从企业文化、发展前景、档案移交、工时计算等方面提问。</li>
+<li>通过语言措辞、肢体语言打造良好第一印象。</li>
+</ul>
+</li>
+</ol>
+<p>多多参与面试，可以选择意向之外的公司进行实战演习，也可以参加一些模拟面试锻炼应试水平。</p>
+<p>想了解面试背后的秘密，可以参考<a href="https://www.nowcoder.com/tutorial/10027/421c4ffa12014195a4fb0cbf89bb9bcf">帅鸽学长的帖子</a>。虽然是产品/运营方面，也有诸多共通之处。</p>
+<h3 id="面试之后"><strong>面试之后</strong></h3>
+<ol>
+<li>感谢信。面试之后可以向 HR 和面试官表示感谢；如果没有过，也可以发邮件表达谢意。</li>
+<li>及时跟进。一般 HR 是不会反馈失败的面试结果的，但最好还是在一周后询问一下。</li>
+<li>总结复盘。</li>
+</ol>
+<p>“乘风破浪会有时，直挂云帆济沧海”，祝大家笔试面试两开花，都能找到自己为之向往的企业！</p>
+<p>推荐阅读：<a href="https://www.zhihu.com/question/19603341">如何自我介绍</a></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[选offer]]></title>
-        <id>https://test.2job.top/post/ke-di-yi-pi/</id>
-        <link href="https://test.2job.top/post/ke-di-yi-pi/">
+        <id>https://test.2job.top/post/offer/</id>
+        <link href="https://test.2job.top/post/offer/">
         </link>
         <updated>2020-08-16T07:02:20.000Z</updated>
         <content type="html"><![CDATA[<p>是 是从势能从</p>
