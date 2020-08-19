@@ -252,11 +252,11 @@ a:active {
 }
 .post {
   background-color: #FFF;
-  margin-top: 10px;
+  margin-top: 50px;
 }
 .post .post_title h2 {
   letter-spacing: 1px;
-  line-height: 1.3;
+  line-height: 0;
   font-weight: 600;
   color: #444;
   padding-bottom: 5px;
@@ -273,12 +273,12 @@ a:active {
   margin-bottom: 0px !important;
 }
 .post .post_footer {
-  padding: 0 0 10px;
+  padding: 0 0 0px;
   border-bottom: 1px solid #f2f2f2;
 }
 .post .post_footer .info {
   max-width: 100%;
-  height: 25px;
+  height: 0px;
   color: #aaaaaa;
   font-size: 12px;
   margin-top: 10px;
