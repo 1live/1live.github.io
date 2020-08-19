@@ -252,7 +252,7 @@ a:active {
 }
 .post {
   background-color: #FFF;
-  margin-top: 50px;
+  margin-top: 10px;
 }
 .post .post_title h2 {
   letter-spacing: 1px;
@@ -273,7 +273,7 @@ a:active {
   margin-bottom: 0px !important;
 }
 .post .post_footer {
-  padding: 0 0 45px;
+  padding: 0 0 10px;
   border-bottom: 1px solid #f2f2f2;
 }
 .post .post_footer .info {
