@@ -56,7 +56,7 @@ a:active {
 }
 .header .logo_title .title img {
   width: 27px;
-  margin: 0em 0.5em 0 0;
+  margin: -0.1em 0.5em 0 0;
   float: left;
 }
 .header .logo_title .title h1 {
