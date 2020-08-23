@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://afzj.github.io</id>
+    <id>https://1live.github.io</id>
     <title>职盒子</title>
-    <updated>2020-08-23T07:35:32.644Z</updated>
+    <updated>2020-08-23T14:25:36.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://afzj.github.io"/>
-    <link rel="self" href="https://afzj.github.io/atom.xml"/>
-    <logo>https://afzj.github.io/images/avatar.png</logo>
-    <icon>https://afzj.github.io/favicon.ico</icon>
+    <link rel="alternate" href="https://1live.github.io"/>
+    <link rel="self" href="https://1live.github.io/atom.xml"/>
+    <logo>https://1live.github.io/images/avatar.png</logo>
+    <icon>https://1live.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 职盒子</rights>
     <entry>
         <title type="html"><![CDATA[求职渠道与准备]]></title>
-        <id>https://afzj.github.io/prepare/</id>
-        <link href="https://afzj.github.io/prepare/">
+        <id>https://1live.github.io/prepare/</id>
+        <link href="https://1live.github.io/prepare/">
         </link>
         <updated>2020-08-16T08:07:38.000Z</updated>
         <content type="html"><![CDATA[<h3 id="一-确定具体的求职意向">一、确定具体的求职意向</h3>
@@ -54,13 +54,13 @@
 <h3 id="四-建立求职档案"><strong>四、建立求职档案</strong></h3>
 <h4 id="1-求职目标管理">1. 求职目标管理</h4>
 <p>作为求职者，在市场中为自己定位十分困难，需要在求职路上多摸爬滚打，逐步建立自我认知。可以先确定自己最想去的岗位，延伸到部分相关公司或相近岗位。不要只投某公司的某个岗位，每一个求职选择都需要广泛收集信息，进行较量。可以利用如下的表格：</p>
-<figure data-type="image" tabindex="1"><img src="https://afzj.github.io/post-images/1597912947713.png" alt="意向岗位表" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://1live.github.io/post-images/1597912947713.png" alt="意向岗位表" loading="lazy"></figure>
 <p>如果已经确立了岗位目标，就可以收集有该岗位缺口的公司以及相关岗位的信息。如：</p>
-<figure data-type="image" tabindex="2"><img src="https://afzj.github.io/post-images/1597913150365.png" alt="意向岗位表2" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://1live.github.io/post-images/1597913150365.png" alt="意向岗位表2" loading="lazy"></figure>
 <p>任何公司都需要螺丝钉，第一梯队与第二梯队的公司职位难度差别不大，提供给应届生的岗位都是比较基础的，所以符合要求的情况下尽量简历多投。</p>
 <h4 id="2-求职进度记录">2. 求职进度记录</h4>
 <p>做好求职进度记录，可参考下示表格。</p>
-<figure data-type="image" tabindex="3"><img src="https://afzj.github.io/post-images/1597913496092.png" alt="投递进度表" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://1live.github.io/post-images/1597913496092.png" alt="投递进度表" loading="lazy"></figure>
 <p>注意，一定不要盲目投递，对于每个公司的每个岗位，都应该在个人简历基础上做针对性的优化；且一阶段内不要投递过多，更不要投递过少，应该有所跟进，在投递中慢慢迭代简历。精细投递，避免接到电话不知所云错过心仪的公司。明确每家企业的岗位「职责」和「要求」，能够完美应对突然接到电话而不记得岗位信息的情况。</p>
 <h4 id="3-求职日志选">3. 求职日志（选）</h4>
 <p>部分求职小伙伴会把自己的求职经历记录下来，在论坛开贴与大家交流。</p>
@@ -69,8 +69,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[简历撰写与投递]]></title>
-        <id>https://afzj.github.io/resume/</id>
-        <link href="https://afzj.github.io/resume/">
+        <id>https://1live.github.io/resume/</id>
+        <link href="https://1live.github.io/resume/">
         </link>
         <updated>2020-08-16T08:07:22.000Z</updated>
         <content type="html"><![CDATA[<h3 id="方法论">方法论</h3>
@@ -93,7 +93,7 @@ R:写出你在这段经历获得的结果（Results）：成果、收益。<br>
 2.对自己的大学经历做一个梳理，挖掘与意向岗位相关的内容，尽量详细，前因后果与投入产出搞清楚，按时间顺序罗列下来（这也体现了职业规划的重要性）；也许你能抽象出一个「核心竞争力」。有些岗位需要提供作品，也需要整理下。<br>
 3.即使是同一个岗位，在不同公司或许有不同侧重，对能力和素养的要求也有一定差异，需要仔细阅读岗位描述，分析其想要怎样的候选人，对症下药。企业要最合适的，而不是最优秀的，有时候有成本的考虑在里面。<strong>对于逻辑思维能力强、沟通能力强这类描述，要用相关经历去证明</strong>；更重要的是对岗位有深入了解，才能读懂一些隐性要求。<br>
 4.模板不重要，排版很重要，可以没有那么多色彩，但是一定要大方，对读者友好。建议直接在模板里写，否则套模板的时候发现字数不合适；在模板里写作也便于有意识地精炼语言。字数不能太少，下图左一、左二为错误实例。</p>
-<figure data-type="image" tabindex="1"><img src="https://afzj.github.io/post-images/1597735428978.png" alt="我的简历更迭" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://1live.github.io/post-images/1597735428978.png" alt="我的简历更迭" loading="lazy"></figure>
 <p>5.第一次投递的简历作为母版，之后以此为基础进行修改，投递其它岗位。</p>
 <h4 id="二-必选模块">二、必选模块</h4>
 <p><strong>1. 文件名</strong></p>
@@ -179,8 +179,8 @@ A:1.招聘广告（获得应聘要求，关键词)<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[笔面试攻略]]></title>
-        <id>https://afzj.github.io/exam/</id>
-        <link href="https://afzj.github.io/exam/">
+        <id>https://1live.github.io/exam/</id>
+        <link href="https://1live.github.io/exam/">
         </link>
         <updated>2020-08-16T08:06:17.000Z</updated>
         <content type="html"><![CDATA[<h3 id="笔试">笔试</h3>
@@ -272,8 +272,8 @@ A:1.招聘广告（获得应聘要求，关键词)<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[offer 指南]]></title>
-        <id>https://afzj.github.io/offer/</id>
-        <link href="https://afzj.github.io/offer/">
+        <id>https://1live.github.io/offer/</id>
+        <link href="https://1live.github.io/offer/">
         </link>
         <updated>2020-08-16T07:02:20.000Z</updated>
         <content type="html"><![CDATA[<h4 id="首先要问清楚几个事情">首先要问清楚几个事情：</h4>
